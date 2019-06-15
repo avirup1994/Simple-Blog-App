@@ -1,0 +1,7 @@
+{
+    "name": "Test Application",
+    "version": "0.0.1",
+    "description": "Documentation for test app",
+    "title": "TEST APIs",
+    "url" : "http://localhost:3600"
+  }
